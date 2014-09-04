@@ -1,7 +1,7 @@
 NetClip
 =======
 
-#### Local network wide clipboard extender ####
+#### Local network wide clipboard extender (Java based) ####
 
 Version 2.10
 
@@ -14,15 +14,19 @@ clipboard entry is ignored for text entries greater than this.
 
 Version 2.10 uses broadcasts to locate partner machines.
 
-Thanks to
+Thanks to marius [marius@matux.de] clic program which served as the base for this program.
 
 #### Requirements ####
+
+1. Java 6 runtime or greater
+
+2. Tested on windows.  Would probably work on Linux.
 
 
 
 #### Installation ####
 
-1. Have Java V6 or greater installed on each machine
+1. Have the Java V6 runtime or greater installed on each machine
 
 2. Install clic\gen\cls into a folder on each machine
 
