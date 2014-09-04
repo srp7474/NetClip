@@ -1,3 +1,12 @@
+
+/*
+ @license
+ Copyright (c) 2014 by Steve Pritchard of Rexcel Systems Inc.
+ This file is made available under the terms of the Creative Commons Attribution-ShareAlike 3.0 license
+ http://creativecommons.org/licenses/by-sa/3.0/.
+ Contact: public.pritchard@gmail.com
+*/
+
 /**
  * NetClip - Clipboard Copy across network
  * @version 2.10
